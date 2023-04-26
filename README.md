@@ -5,7 +5,7 @@
 - 📫 How to reach me ... danielolofsson.d.093@gmail.com
 
 
-![PhotoFunia-1682502559](https://user-images.githubusercontent.com/112083031/234539246-14025f77-900e-444b-a560-cb9e2a6f2206.jpg)
+
 
 
 <!---
