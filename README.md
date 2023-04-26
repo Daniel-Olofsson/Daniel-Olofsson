@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... danielolofsson.d.093@gmail.com
 
-![PhotoFunia-1682502519](https://user-images.githubusercontent.com/112083031/234539120-98ad81bc-2401-42ce-bdd4-dfd654beec21.jpg)
+
+![PhotoFunia-1682502559](https://user-images.githubusercontent.com/112083031/234539246-14025f77-900e-444b-a560-cb9e2a6f2206.jpg)
 
 
 <!---
