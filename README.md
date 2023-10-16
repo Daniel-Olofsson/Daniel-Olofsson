@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Daniel-Olofsson
 - 👀 I’m interested in ... Games and Tech
 - 🌱 I’m currently learning ...JavaScript, GraphQL, C#, Unity, React
-- 💞️ I’m looking to collaborate on ... 
+- 💞️ I’m looking to collaborate on ... Unity, c#, Python, JavaScript
 - 📫 How to reach me ... danielolofsson.d.093@gmail.com
 
 
